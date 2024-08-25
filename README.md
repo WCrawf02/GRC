@@ -53,6 +53,7 @@ Regulations are assigned to govern the use and protection of information assets,
 1.) **Identify Scope & Purpose**: Decide and determine what the document will cover and why it is needed.
 
 2.) **Research and Review**: Research relevant laws, regulations, standards, and best practices. Review the existing policies to avoid duplication or contradiction.
+
 3.) **Draft the Document**: Create an outline and draft the document with clear, actionable guidelines aligned with organizational goals.
 
 4.) **Review & Approval**: Obtain feedback from stakeholders and secure final approval.
@@ -60,3 +61,21 @@ Regulations are assigned to govern the use and protection of information assets,
 5.) **Implementation & Communication**: Share the document with employees, making sure they understand their roles. Organize trainings to supporrt document.
 
 6.) **Review & Update**: Regularly review the document, adjust for relevance, and ensure compliance with ever-evolving regulations and threats.
+
+## **Task 4 Module - Governance, Risk & Compliance** ![Task 4](https://github.com/user-attachments/assets/c9515ed3-faeb-4b9e-9cd0-ff671b1b15b1)
+
+**Developing a GRC Program**:
+
+1.) **Define Scope & Objectives**: Determine the program's scope and goals.
+
+2.) **Conduct a Risk Assessment**: Identify and assess potential cyber threats. For example, a risk assessment can disclose vulnerabilities due to weak access           controls or permissions.
+
+3.) **Develop Policies & Procedures**: Create guidelines for best information security standards; such as a password policy.
+
+4.) **Establish Governance Processes**: Implement effective management personnel to regulate the GRC program, with defined roles and responsibilities.
+
+5.) **Implement Controls**: Enlist both technical and non-technical contrrols to mitigate identified threats.  For example, installation of IDS/IPS, use of SIEM         systems, and employee security awareness training.
+
+6.) **Monitor & Measure Performance**: Rely on metrics and compliance reviews to track effectiveness of the GRC program. Adjust when needed.
+
+7.) **Continuously Improve**: Regularly review and update the GRC program based on performance metrics and feedback.
