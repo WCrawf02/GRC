@@ -94,3 +94,11 @@ Regulations are assigned to govern the use and protection of information assets,
 
 ## **Task 7 Module - Information Security Management and Compliance** ![Screenshot 2024-08-25 at 6 05 40 PM](https://github.com/user-attachments/assets/c6e7d963-e31b-4e98-9bf1-efe49bf4d0a3)
 
+**ISO/IEC 27001**:
+- **Scope**: Defines the boundaries of the Information Security Management System, including covered assets and processes.
+- **Information Security Policy**: Details the organization's approach to information security.
+- **Risk Assessment**: Identifies and evaluates risks to the confidentiality, integrity, and availability of information.
+- **Risk Treatment**: Selects and implements controls to mititgate identified risks.
+- **Statement of Applicability**: Specifies which controls from the standard are appicable.
+- **Internal Audit**: Periodically assesses the effectiveness of the ISMS.
+- **Management Review**: Regularly reviews ISMS performance metrics to ensure alignment with organizational goals.
