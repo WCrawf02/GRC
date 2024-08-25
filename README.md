@@ -11,5 +11,5 @@ I am currently pursuing the CompTIA Pentest+ certification and have incorporated
 
 ![Task 2 screenshot](https://github.com/user-attachments/assets/c7f2ae40-b167-40a7-9655-e5c92f30d576)
 
-## **Key Terminologies**
+**Key Terminologies**
 - 
