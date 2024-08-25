@@ -91,3 +91,5 @@ Regulations are assigned to govern the use and protection of information assets,
 3.) **Establish Governance**: Develop a governance structure with clear roles, responsibilities, and procedures for implementing and maintaining controls.
 
 4.) **Monitor & Evaluate**: Implement effective monitoring systems to detect and address security issues. Regular assessments and audits need to be done to ensure       compliance.
+
+## **Task 7 Module - Information Security Management and Compliance** ![Screenshot 2024-08-25 at 6 05 40 PM](https://github.com/user-attachments/assets/22cb100e-fb1e-4d07-bf5d-fc9be37cdc9a)
