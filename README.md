@@ -20,4 +20,18 @@ I am currently pursuing the CompTIA Pentest+ certification and have incorporated
 
 Information security governance encompasses and organization's structure, policies, and procedures while ensuring the privacy, integrity, and availability of information assets.  It is critical for risk management, protecting sensitive data, and ensuring compliance with relevant laws.  Key concepts include:
 
-  - 
+  - **Strategy**: Develop security strategy to align with business goals.
+  - **Policies & Procedures**: Governing the use and protection of information assets.
+  - **Risk Management**: Identifying and mitigating threats to information assets.
+  - **Performance Measurement**: Leverage metrics to assess the effectiveness of security efforts.
+  - **Compliance**: Ensuring adherence to regulations and best practices.
+
+**Information Security Regulation**:
+
+Regulations are assigned to govern the use and protection of information assets, preventing unauthorized access, theft, and misuse. Compliance is often mandatory and enforced by government or regulatory bodies, such as GDPR, HIPAA, and PCI-DSS.
+
+**Key Benefits of Governance and Regulation**:
+
+- **Stronger Security**: Reduces the risk of breaches and data theft.
+- **Stakeholder Confidence**: Demonstrates commitment to cybersecurity.
+- **Regulatory Compliance**: Avoid penalties and public damage
