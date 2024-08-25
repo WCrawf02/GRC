@@ -45,3 +45,5 @@ Regulations are assigned to govern the use and protection of information assets,
 - **HIPAA**: U.S. Law safeguarding health information.
 - **PCI-DSS**: Financial standard for securing cardholder data.
 - **GLBA**: U.S. Law protecting customer financial information. 
+
+## **Task 3 Module - Information Security Frameworks** ![Task 3 screenshot](https://github.com/user-attachments/assets/1644a69d-81da-47b5-bfdb-d36b9c50ddfc)
