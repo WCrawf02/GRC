@@ -35,3 +35,13 @@ Regulations are assigned to govern the use and protection of information assets,
 - **Stronger Security**: Reduces the risk of breaches and data theft.
 - **Stakeholder Confidence**: Demonstrates commitment to cybersecurity.
 - **Regulatory Compliance**: Avoid penalties and public damage
+- **Business Alignment**: Ensures security strategies support overall business goals.
+- **Informed Decision-Making**: Provides insights for better security risk management.
+- **Competitive Advantage**: Enhances trust and distinguishes the organization.
+
+**Relevant Laws & Regulations**:
+
+- **GDPR**: European Union regulation for protecting personal data.
+- **HIPAA**: U.S. Law safeguarding health information.
+- **PCI-DSS**: Financial standard for securing cardholder data.
+- **GLBA**: U.S. Law protecting customer financial information. 
