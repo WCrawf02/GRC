@@ -108,6 +108,6 @@ Regulations are assigned to govern the use and protection of information assets,
 - **SOC 2 Reports**: Provide assurance that controls are in place to safeguard data and systems, often required by clients and stakeholders.
 - **Audit Process**: Includes defining scope, selecting an auditor, planning the audit, preparing controls, conducting the audit, and receiving the audit report.
 
-## **Conclusion**
+## **Conclusion**![Conclusion](https://github.com/user-attachments/assets/74d81c3f-23ec-4816-a62c-099678d271e3)
 
 In this GRC module, I gained a comprehensive understanding of the importance of developing an effective information security governance and regulation framework to safeguard an organization's valuable assets and sensitive information. Key topics included Goverance, Risk Management, and Compliance Framework and critical privacy regulations such as GDPR and PCI DSS. Real-world scenarios helped iillustrate how to design and implement a GRC program. I also learned about governance enablers like ISO/IEC 27001, NIST 800-53, and NIST SP 800-63B, which provided guidance on establishing a proactive and resilient security posture.
