@@ -51,8 +51,12 @@ Regulations are assigned to govern the use and protection of information assets,
 **Developing Governance Documents: Key Steps**
 
 1.) **Identify Scope & Purpose**: Decide and determine what the document will cover and why it is needed.
+
 2.) **Research and Review**: Research relevant laws, regulations, standards, and best practices. Review the existing policies to avoid duplication or contradiction.
 3.) **Draft the Document**: Create an outline and draft the document with clear, actionable guidelines aligned with organizational goals.
+
 4.) **Review & Approval**: Obtain feedback from stakeholders and secure final approval.
+
 5.) **Implementation & Communication**: Share the document with employees, making sure they understand their roles. Organize trainings to supporrt document.
+
 6.) **Review & Update**: Regularly review the document, adjust for relevance, and ensure compliance with ever-evolving regulations and threats.
