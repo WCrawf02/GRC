@@ -12,4 +12,10 @@ I am currently pursuing the CompTIA Pentest+ certification and have incorporated
 ![Task 2 screenshot](https://github.com/user-attachments/assets/c7f2ae40-b167-40a7-9655-e5c92f30d576)
 
 **Key Terminologies**
-- **Governance**: 
+- **Governance**: Management and direction of an organization or system to achieve objectives and ensure compliance with laws, regulations, and standards.
+- **Regulation**: Rules or laws enforced by governing bodies to ensure compliance and protect against harm.
+- **Compliance**: The state of adhering to applicable laws, regulations, and standards.
+
+**Information Security Governance**:
+Information security governance encompasses and organization's structure, policies, and procedures while ensuring the privacy, integrity, and availability of information assets.  It is critical for risk management, protecting sensitive data, and ensuring compliance with relevant laws.  Key concepts include:
+  - 
