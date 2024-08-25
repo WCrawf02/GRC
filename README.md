@@ -17,5 +17,6 @@ I am currently pursuing the CompTIA Pentest+ certification and have incorporated
 - **Compliance**: The state of adhering to applicable laws, regulations, and standards.
 
 **Information Security Governance**:
+
 Information security governance encompasses and organization's structure, policies, and procedures while ensuring the privacy, integrity, and availability of information assets.  It is critical for risk management, protecting sensitive data, and ensuring compliance with relevant laws.  Key concepts include:
   - 
