@@ -1,3 +1,7 @@
+
+![GRC title screen](https://github.com/user-attachments/assets/94031090-b040-449f-ac4f-6a32cbc7dacc)
+
+
 # GRC 📜
 **Objectives**
 
