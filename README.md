@@ -79,3 +79,15 @@ Regulations are assigned to govern the use and protection of information assets,
 6.) **Monitor & Measure Performance**: Rely on metrics and compliance reviews to track effectiveness of the GRC program. Adjust when needed.
 
 7.) **Continuously Improve**: Regularly review and update the GRC program based on performance metrics and feedback.
+
+## **Task 6 Module - NIST Special Publications** ![Task 6](https://github.com/user-attachments/assets/6d553622-fe11-4dcd-b647-5465b2a11826)
+
+**Compliance Best Practices**
+
+1.) **Conduct Thorough Discovery**: Identify and catalog data assets, information systems, and associated threats.
+
+2.) **Map Controls**: Align NIST 800-53 control families with identified assets and risks to create a structured approach for implementing necessary controls.
+
+3.) **Establish Governance**: Develop a governance structure with clear roles, responsibilities, and procedures for implementing and maintaining controls.
+
+4.) **Monitor & Evaluate**: Implement effective monitoring systems to detect and address security issues. Regular assessments and audits need to be done to ensure       compliance.
