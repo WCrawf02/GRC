@@ -47,3 +47,12 @@ Regulations are assigned to govern the use and protection of information assets,
 - **GLBA**: U.S. Law protecting customer financial information. 
 
 ## **Task 3 Module - Information Security Frameworks** ![Task 3 screenshot](https://github.com/user-attachments/assets/1644a69d-81da-47b5-bfdb-d36b9c50ddfc)
+
+**Developing Governance Documents: Key Steps**
+
+1.) **Identify Scope & Purpose**: Decide and determine what the document will cover and why it is needed.
+2.) **Research and Review**: Research relevant laws, regulations, standards, and best practices. Review the existing policies to avoid duplication or contradiction.
+3.) **Draft the Document**: Create an outline and draft the document with clear, actionable guidelines aligned with organizational goals.
+4.) **Review & Approval**: Obtain feedback from stakeholders and secure final approval.
+5.) **Implementation & Communication**: Share the document with employees, making sure they understand their roles. Organize trainings to supporrt document.
+6.) **Review & Update**: Regularly review the document, adjust for relevance, and ensure compliance with ever-evolving regulations and threats.
