@@ -1,1 +1,3 @@
-# GRC 🇲🇵📜
+# GRC 📜
+**Objectives**
+For this project 
