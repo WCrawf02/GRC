@@ -102,3 +102,12 @@ Regulations are assigned to govern the use and protection of information assets,
 - **Statement of Applicability**: Specifies which controls from the standard are appicable.
 - **Internal Audit**: Periodically assesses the effectiveness of the ISMS.
 - **Management Review**: Regularly reviews ISMS performance metrics to ensure alignment with organizational goals.
+
+**Service Organization Control 2 (SOC 2)**: ![Screenshot 2024-08-25 at 6 13 32 PM](https://github.com/user-attachments/assets/4373e35d-bf65-4779-b7df-c29f4438a3de)
+- **Purpose**: Evaluates the effectiveness of a service organization's controls related to confidentiality, availability, integrity, and privacy.
+- **SOC 2 Reports**: Provide assurance that controls are in place to safeguard data and systems, often required by clients and stakeholders.
+- **Audit Process**: Includes defining scope, selecting an auditor, planning the audit, preparing controls, conducting the audit, and receiving the audit report.
+
+## **Conclusion**
+
+In this GRC module, I gained a comprehensive understanding of the importance of developing an effective information security governance and regulation framework to safeguard an organization's valuable assets and sensitive information. Key topics included Goverance, Risk Management, and Compliance Framework and critical privacy regulations such as GDPR and PCI DSS. Real-world scenarios helped iillustrate how to design and implement a GRC program. I also learned about governance enablers like ISO/IEC 27001, NIST 800-53, and NIST SP 800-63B, which provided guidance on establishing a proactive and resilient security posture.
